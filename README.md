@@ -1,1 +1,1 @@
-# ctf-writeup
+# my ctf writeups website
