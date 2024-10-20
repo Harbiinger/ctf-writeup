@@ -1,0 +1,22 @@
+baseURL = 'https://ctf.harbiinger.xyz/'
+languageCode = 'en-us'
+title = 'My CTF writeups'
+theme = 'poison'
+
+[params]
+  brand = "CTF writeups"
+  brand_image = "/images/nix-mate-trans.png"
+  description = "ctf writeups, tips, tools, ..."
+  dark_mode = true
+  front_page_content = ["front"]
+  menu = [
+    {Name = "Writeups", URL = "/writeups/", HasChildren = false},
+    {Name = "Tips", URL = "/tips/", HasChildren = false},
+    {Name = "Tools", URL = "/tools/", HasChildren = false},
+  ]
+  github_url = "https://github.com/harbiinger/ctf-writeup"
+  mastodon_url = "https://fosstodon.org/@harbinger"
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
