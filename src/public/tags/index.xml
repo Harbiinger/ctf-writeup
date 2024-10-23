@@ -9,20 +9,6 @@
     <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ctf.harbiinger.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CTF</title>
-      <link>https://ctf.harbiinger.xyz/tags/ctf/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ctf.harbiinger.xyz/tags/ctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Event</title>
-      <link>https://ctf.harbiinger.xyz/tags/event/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ctf.harbiinger.xyz/tags/event/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>STEGANOGRAPHY</title>
       <link>https://ctf.harbiinger.xyz/tags/steganography/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
@@ -34,13 +20,6 @@
       <link>https://ctf.harbiinger.xyz/tags/traffic-analysis/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://ctf.harbiinger.xyz/tags/traffic-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writeup</title>
-      <link>https://ctf.harbiinger.xyz/tags/writeup/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://ctf.harbiinger.xyz/tags/writeup/</guid>
       <description></description>
     </item>
   </channel>

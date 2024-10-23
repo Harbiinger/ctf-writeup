@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ctf.harbiinger.xyz/tags/ctf/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +15,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ctf.harbiinger.xyz/tags/event/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ctf.harbiinger.xyz/events/</loc>
@@ -39,9 +33,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ctf.harbiinger.xyz/tags/traffic-analysis/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ctf.harbiinger.xyz/tags/writeup/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ctf.harbiinger.xyz/writeups/</loc>

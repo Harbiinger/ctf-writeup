@@ -1,7 +1,6 @@
 ---
 title: "DeadFace 2024"
 draft: false
-tags: ["CTF", "Event"]
 date: 2024-10-06
 ---
 

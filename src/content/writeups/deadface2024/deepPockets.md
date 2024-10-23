@@ -1,7 +1,7 @@
 ---
 title: "Deep Pockets"
 draft: false
-tags: ["writeup", "TRAFFIC ANALYSIS"]
+tags: ["TRAFFIC ANALYSIS"]
 series: "deadface2024"
 date: 2024-10-06
 ---

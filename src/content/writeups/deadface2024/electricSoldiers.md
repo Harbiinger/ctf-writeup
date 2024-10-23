@@ -1,7 +1,7 @@
 ---
 title: "Electric Soldiers"
 draft: false
-tags: ["writeup", "STEGANOGRAPHY"]
+tags: ["STEGANOGRAPHY"]
 series: "deadface2024"
 date: 2024-10-06
 ---
