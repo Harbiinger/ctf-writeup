@@ -4,14 +4,15 @@ draft: false
 date: 2024-10-06
 ---
 
-- My team: Caffeine Lover’s Unbelievable Brew – Makes Anyone Totally Energetic
+## Team
+
+- Caffeine Lover’s Unbelievable Brew – Makes Anyone Totally Energetic
   1. Frix
   2. Nephty
   3. Sierra880
   4. Harbiinger
 
 - CTTtime: https://ctftime.org/team/359021
-
 
 - Scoreboard: 35th 
 
