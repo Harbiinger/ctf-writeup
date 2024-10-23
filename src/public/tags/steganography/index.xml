@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STEGANOGRAPHY on My CTF writeups</title>
+    <link>https://ctf.harbiinger.xyz/tags/steganography/</link>
+    <description>Recent content in STEGANOGRAPHY on My CTF writeups</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.harbiinger.xyz/tags/steganography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Descended From Wolves</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;There’s an image circulating on GhostTown of some weird dog. Based on the conversation in the forum, it sounds like the image holds some data that lamia415 extracted from De Monne Financial. Use the context in the conversation to determine what was extracted.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Submit the flag as flag{flag-text}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;File&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/princess.png&#34; alt=&#34;Image of a dog with big eyes&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;GhostTown&lt;/code&gt;, there is a thread titled &lt;code&gt;Exfiltrating Data Without Triggering Alerts&lt;/code&gt; that says&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electric Soldiers</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We stumbled across this image from d34th that might indicate how DEADFACE plans to sneak stolen information through various networks without detection. According to Ghost Town, d34th has been refining his process for embedding hidden information in various files.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;See if you can uncover any hidden information in this image. Submit the flag as flag{flag-text}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;File&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/electricsoldiers.png&#34; alt=&#34;AI generated image of a robots&amp;rsquo; rock band&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;GhostTown&lt;/code&gt;, there is a thread by &lt;code&gt;d34th&lt;/code&gt; titled &lt;code&gt;Steganography Script Update&lt;/code&gt; that says&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

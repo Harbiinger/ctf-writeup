@@ -2,24 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/front/front/</loc>
+    <loc>https://ctf.harbiinger.xyz/tags/ctf/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writeups/deadface2024/</loc>
+    <loc>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/deadface2024/</loc>
+    <loc>https://ctf.harbiinger.xyz/series/deadface2024/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/front/</loc>
+    <loc>https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/osint/</loc>
+    <loc>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://ctf.harbiinger.xyz/tags/event/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ctf.harbiinger.xyz/events/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writeup/</loc>
+    <loc>https://ctf.harbiinger.xyz/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writeups/</loc>
+    <loc>https://ctf.harbiinger.xyz/series/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/tags/steganography/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/tags/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/tags/traffic-analysis/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/tags/writeup/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/writeups/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/front/front/</loc>
+  </url><url>
+    <loc>https://ctf.harbiinger.xyz/front/</loc>
   </url>
 </urlset>

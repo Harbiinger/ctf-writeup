@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TRAFFIC ANALYSIS on My CTF writeups</title>
+    <link>https://ctf.harbiinger.xyz/tags/traffic-analysis/</link>
+    <description>Recent content in TRAFFIC ANALYSIS on My CTF writeups</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.harbiinger.xyz/tags/traffic-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Pockets</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Garry Sartoris had a CSV file of VIP clients on his machine that DEADFACE exfiltrated. TGRI wants us to confirm William Harrington’s account number to determine if his information was compromised. Submit William Harrington’s account number as the flag.&lt;/p&gt;&#xA;&lt;p&gt;Submit the flag as flag{AAAA##############}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;file&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/deadface2024/phantom.zip&#34;&gt;phantom.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;Wireshark&lt;/code&gt; we can use the filter &lt;code&gt;data&lt;/code&gt; and search for any &lt;code&gt;csv&lt;/code&gt; string in packet bytes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/deepPockets-1.png&#34; alt=&#34;Image of wireshark filters&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

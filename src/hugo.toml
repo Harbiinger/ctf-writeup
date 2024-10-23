@@ -10,6 +10,7 @@ theme = 'poison'
   dark_mode = true
   front_page_content = ["front"]
   menu = [
+    {Name = "Events", URL = "/events/", Pre = "Recent", HasChildren = true, Limit = 5},
     {Name = "Writeups", URL = "/writeups/", HasChildren = false},
     {Name = "Tips", URL = "/tips/", HasChildren = false},
     {Name = "Tools", URL = "/tools/", HasChildren = false},

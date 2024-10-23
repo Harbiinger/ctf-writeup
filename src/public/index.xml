@@ -2,24 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My CTF writeups</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ctf.harbiinger.xyz/</link>
     <description>Recent content on My CTF writeups</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.harbiinger.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/front/front/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/front/front/</guid>
-      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;</description>
+      <title>DeadFace 2024</title>
+      <link>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;My team: Caffeine Lover’s Unbelievable Brew – Makes Anyone Totally Energetic&lt;/li&gt;&#xA;&lt;li&gt;Scoreboard: 35th&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;h4 id=&#34;traffic-analysis&#34;&gt;Traffic Analysis&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/&#34;&gt;Deep Pockets&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;steganography&#34;&gt;Steganography&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/&#34;&gt;Descended From Wolves&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/&#34;&gt;Electric Soldiers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Deadface</title>
-      <link>http://localhost:1313/writeups/deadface2024/</link>
+      <title>Deep Pockets</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Garry Sartoris had a CSV file of VIP clients on his machine that DEADFACE exfiltrated. TGRI wants us to confirm William Harrington’s account number to determine if his information was compromised. Submit William Harrington’s account number as the flag.&lt;/p&gt;&#xA;&lt;p&gt;Submit the flag as flag{AAAA##############}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;file&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/deadface2024/phantom.zip&#34;&gt;phantom.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;Wireshark&lt;/code&gt; we can use the filter &lt;code&gt;data&lt;/code&gt; and search for any &lt;code&gt;csv&lt;/code&gt; string in packet bytes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/deepPockets-1.png&#34; alt=&#34;Image of wireshark filters&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Descended From Wolves</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;There’s an image circulating on GhostTown of some weird dog. Based on the conversation in the forum, it sounds like the image holds some data that lamia415 extracted from De Monne Financial. Use the context in the conversation to determine what was extracted.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Submit the flag as flag{flag-text}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;File&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/princess.png&#34; alt=&#34;Image of a dog with big eyes&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;GhostTown&lt;/code&gt;, there is a thread titled &lt;code&gt;Exfiltrating Data Without Triggering Alerts&lt;/code&gt; that says&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electric Soldiers</title>
+      <link>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/</guid>
+      <description>&lt;h2 id=&#34;challenge-description&#34;&gt;Challenge Description&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We stumbled across this image from d34th that might indicate how DEADFACE plans to sneak stolen information through various networks without detection. According to Ghost Town, d34th has been refining his process for embedding hidden information in various files.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;See if you can uncover any hidden information in this image. Submit the flag as flag{flag-text}.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;file&#34;&gt;File&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ctf.harbiinger.xyz/deadface2024/electricsoldiers.png&#34; alt=&#34;AI generated image of a robots&amp;rsquo; rock band&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;solution&#34;&gt;Solution&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;code&gt;GhostTown&lt;/code&gt;, there is a thread by &lt;code&gt;d34th&lt;/code&gt; titled &lt;code&gt;Steganography Script Update&lt;/code&gt; that says&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ctf.harbiinger.xyz/front/front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writeups/deadface2024/</guid>
-      <description>&lt;h1 id=&#34;its-on-track&#34;&gt;It&amp;rsquo;s on track&lt;/h1&gt;</description>
+      <guid>https://ctf.harbiinger.xyz/front/front/</guid>
+      <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

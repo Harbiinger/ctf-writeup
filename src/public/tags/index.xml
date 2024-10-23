@@ -2,23 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My CTF writeups</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://ctf.harbiinger.xyz/tags/</link>
     <description>Recent content in Tags on My CTF writeups</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.harbiinger.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OSINT</title>
-      <link>http://localhost:1313/tags/osint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/osint/</guid>
+      <title>CTF</title>
+      <link>https://ctf.harbiinger.xyz/tags/ctf/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/tags/ctf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event</title>
+      <link>https://ctf.harbiinger.xyz/tags/event/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/tags/event/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STEGANOGRAPHY</title>
+      <link>https://ctf.harbiinger.xyz/tags/steganography/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/tags/steganography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TRAFFIC ANALYSIS</title>
+      <link>https://ctf.harbiinger.xyz/tags/traffic-analysis/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/tags/traffic-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Writeup</title>
-      <link>http://localhost:1313/tags/writeup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/writeup/</guid>
+      <link>https://ctf.harbiinger.xyz/tags/writeup/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/tags/writeup/</guid>
       <description></description>
     </item>
   </channel>

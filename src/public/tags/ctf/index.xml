@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF on My CTF writeups</title>
+    <link>https://ctf.harbiinger.xyz/tags/ctf/</link>
+    <description>Recent content in CTF on My CTF writeups</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.harbiinger.xyz/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeadFace 2024</title>
+      <link>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ctf.harbiinger.xyz/events/deadface2024/deadface2024/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;My team: Caffeine Lover’s Unbelievable Brew – Makes Anyone Totally Energetic&lt;/li&gt;&#xA;&lt;li&gt;Scoreboard: 35th&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;&#xA;&lt;h4 id=&#34;traffic-analysis&#34;&gt;Traffic Analysis&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/deeppockets/&#34;&gt;Deep Pockets&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;steganography&#34;&gt;Steganography&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/descendedfromwolves/&#34;&gt;Descended From Wolves&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ctf.harbiinger.xyz/writeups/deadface2024/electricsoldiers/&#34;&gt;Electric Soldiers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
