@@ -4,6 +4,7 @@ draft: false
 tags: ["STEGANOGRAPHY"]
 series: "deadface2024"
 date: 2024-10-06
+author: Harbiinger
 ---
 
 ## Challenge Description
